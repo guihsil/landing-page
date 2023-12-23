@@ -175,6 +175,10 @@
 }
 
 @media (max-width: 80rem) {
+    h2 {
+        font-size: 5.3rem;
+    }
+    
     .intro-content, .grid {
         grid-template-columns: 1fr;
     }
